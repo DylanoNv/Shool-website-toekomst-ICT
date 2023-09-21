@@ -1,0 +1,66 @@
+main {
+    background-color:#2C2F33;
+    padding: 20px;
+}
+
+
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+    color: rgb(255, 255, 255);
+    font-style: oblique;
+    text-shadow: 5px 5px 5px black;  
+}
+
+html {
+    border:25px solid #006241;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
+
+hr {
+    background-color:#23272A;
+    width: 960px;
+    height: 30px;
+    border: black;
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+    font-style: oblique;
+    text-shadow: 5px 5px 5px black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px
+}
+
+h3 {
+    color: rgb(255, 255, 255);
+    font-style: oblique;
+    text-shadow: 5px 5px 5px black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px
+}
+
+p {
+    color: #ffffff;
+    font-style: oblique;
+    text-shadow: 5px 5px 5px black;
+    font-family:monospace;
+    font-size: 20px
+}
+
+a {
+    font-size: 30px;
+    color: white;
+    text-shadow: 5px 5px 5px black;
+    
+}
+
+h1, h2, h3, h4, p, a {
+    width: 960px;
+}
